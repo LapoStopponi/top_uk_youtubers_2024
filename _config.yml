@@ -1,0 +1,6 @@
+title: Lapo
+logo: assets/profile_pic.jpeg
+show_download: True
+remote_them: pages-theme/minimal@v0.2.0
+plugins:
+- jekill-remote-theme
